@@ -1,0 +1,22 @@
+
+.padre{
+	border: 1px solid gray;
+}
+.uno {
+	background-color: yellow;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.dos {
+	background-color: blue;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.tres {
+	background-color: red;
+	width: 25%;
+	height: 100px;
+	float: right;
+}

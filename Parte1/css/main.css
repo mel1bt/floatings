@@ -1,0 +1,19 @@
+.padre{
+	border: 1px solid gray;
+	width: 600px;
+}
+.uno {
+	background-color: yellow;
+	width: 25%;
+	height: 100px;
+}
+.dos {
+	background-color: blue;
+	width: 25%;
+	height: 100px;
+}
+.tres {
+	background-color: red;
+	width: 25%;
+	height: 100px;
+}
